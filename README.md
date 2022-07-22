@@ -56,6 +56,19 @@ To clone this repository into your local computer from this remote follow the st
 
    ![browser example](/assets/images/browser.png)
 
+## Github Commands
+* git status
+* git add . 
+* git commit -m "present tense, active voice commit"
+* git remote -v 
+* git pull `remote-name` main
+   * `remote-name` is what you named your other remote. Most of you have `mainRemote`
+   * it should be: 
+      * `git pull mainRemote main`
+* If you run into errors or warnings try to force the
+* git pull --ff `remote-name` main
+   1. Accept both incoming changes on vscode
+   1. Then add and commit changes
 
 ## HOTKEYS:
 **WINDOWS**
